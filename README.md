@@ -1,7 +1,7 @@
 # lab-5
 ---
 title: "lab5"
-author: "Gordeev Dmitry"
+author: "Kondrasik Kristina"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
   html_document:
